@@ -32,7 +32,7 @@
 | **Hardware Platforms** | Digital Logic Design, Basic Circuit Simulators (Learning),Breadboarding |
 | **Tools & Environments** | Git, GitHub, VS Code |
 ## 📌 Featured Repositories
-⚡**c-programming-foundations**\
+⚡[c-programming-foundations](https://github.com/jaidhevtholkappian/c-programming-foundations/tree/main)\
 Academic workspace tracking core programming assignments and logic building loops.\
 •Focuses on structural loop operations, arrays, and algorithms inside engineering workflows.\
 •C Language • Academic Labs • Logic Building
