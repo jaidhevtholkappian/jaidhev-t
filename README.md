@@ -25,10 +25,12 @@
 
 
 ## 🛠️ Tech Stack & Tooling
-
-
-![](https://github.com/user-attachments/assets/2db124ee-ac89-4343-9a4b-7ca20e583b93)
-
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | C, Python (Core Syntax & Logic Building) |
+| **Operating Systems** | Windows, Linux (Learning structural basics) |
+| **Hardware Platforms** | Digital Logic Design, Basic Circuit Simulators (Learning),Breadboarding |
+| **Tools & Environments** | Git, GitHub, VS Code |
 ## 📌 Featured Repositories
 ⚡**c-programming-foundations**\
 Academic workspace tracking core programming assignments and logic building loops.\
